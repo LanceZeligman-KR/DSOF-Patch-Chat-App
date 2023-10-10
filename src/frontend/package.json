@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "cross-env": "^5.2.0",
-    "parse-url": "6.0.1",
     "sockjs-client": "^1.4.0",
     "webstomp-client": "^1.2.6",
     "marked": "4.0.10"
